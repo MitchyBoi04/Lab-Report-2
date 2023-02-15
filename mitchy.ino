@@ -5,12 +5,12 @@
 #define NANO_ADDRESS 0x04
 
 // ADC Pin assignments for sensors
-#define SENSOR1  //Outer Left
-#define SENSOR2  //Left
-#define SENSOR3  //Middle Left
-#define SENSOR4  //Middle Right
-#define SENSOR5  //Right
-#define SENSOR6  //Outer Right
+#define SENSOR1  26//Outer Left
+#define SENSOR2  35//Left
+#define SENSOR3  32//Middle Left
+#define SENSOR4  25//Middle Right
+#define SENSOR5  33//Right
+#define SENSOR6  27//Outer Right
 
 int baseMotorSpeed = 150; //base motor speed of the EEEbot
 
